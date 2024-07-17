@@ -1,0 +1,38 @@
+[
+{
+service : "Web Development",
+description : "Crafting tailor-made websites and web applications.",
+  price : "$1 , 500 - $7 ,000",
+  provider : "Ujjwal  Technical Youtube Inc.",
+},
+	{
+    service:"E-commerce Website Development",
+description : "Building powerful e-commerce websites for your business.", 
+  price : "$2 , 000 - $8,000",
+  provider : "Ujjwal  Technical Youtubec.",
+  },
+ {
+   service	:"Responsive Web Design",
+description  : "Creating visually stunning and responsive websites. ",
+  price : "$1 , 200 - $6 , 000" ,
+  provider : "TUjjwal  Technical Youtube.",
+  },
+  {
+    service : "Mobile App Development" ,
+description : "Developing innovative and user-friendly mobile applications. " ,
+    price : "$2 , 500 - $10,000" , 
+    provider : "Ujjwal Technical Website.",
+  },
+ {
+   service	: "WordPress Website Development",
+description : "Building dynamic websites using the WordPress platform. ",
+   price    : "$1 , 300 - $5, 500",
+   provider : "Ujjwal Technical Website",
+  },
+  {
+    service : "UI/ UX Design Services" ,
+description : "Crafting intuitive and user-centric UI/ UX designs for your projects . ", 
+    price : "$1 , 800 - $7 , 500" ,
+    provider : "Tech Solutions Inc.",
+  },
+    ];
